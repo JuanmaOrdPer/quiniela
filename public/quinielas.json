@@ -1,0 +1,46 @@
+{
+    "apuestas": [
+      {
+        "fecha": "2023-11-11",
+        "jornada": 13,
+        "partidos": [
+          {"local": "Real Madrid", "visitante": "Valencia", "apuestas": {"1": 60, "X": 25, "2": 15}},
+          {"local": "Barcelona", "visitante": "Almería", "apuestas": {"1": 70, "X": 18, "2": 12}},
+          {"local": "Atlético de Madrid", "visitante": "Villarreal", "apuestas": {"1": 55, "X": 28, "2": 17}},
+          {"local": "Real Sociedad", "visitante": "Sevilla", "apuestas": {"1": 45, "X": 30, "2": 25}},
+          {"local": "Athletic Club", "visitante": "Celta Vigo", "apuestas": {"1": 40, "X": 32, "2": 28}},
+          {"local": "Girona", "visitante": "Rayo Vallecano", "apuestas": {"1": 38, "X": 33, "2": 29}},
+          {"local": "Getafe", "visitante": "Osasuna", "apuestas": {"1": 35, "X": 34, "2": 31}},
+          {"local": "Cádiz", "visitante": "Mallorca", "apuestas": {"1": 32, "X": 35, "2": 33}},
+          {"local": "Las Palmas", "visitante": "Alavés", "apuestas": {"1": 33, "X": 34, "2": 33}},
+          {"local": "Granada", "visitante": "Betis", "apuestas": {"1": 25, "X": 30, "2": 45}},
+          {"local": "Real Madrid", "visitante": "Rayo Vallecano", "apuestas": {"1": 58, "X": 27, "2": 15}},
+          {"local": "Barcelona", "visitante": "Osasuna", "apuestas": {"1": 65, "X": 20, "2": 15}},
+          {"local": "Atlético de Madrid", "visitante": "Mallorca", "apuestas": {"1": 60, "X": 25, "2": 15}},
+          {"local": "Real Sociedad", "visitante": "Getafe", "apuestas": {"1": 50, "X": 30, "2": 20}},
+          {"local": "Athletic Club", "visitante": "Girona", "apuestas": {"1": 45, "X": 30, "2": 25}}
+        ]
+      },
+      {
+        "fecha": "2023-11-18",
+        "jornada": 14,
+        "partidos": [
+          {"local": "Sevilla", "visitante": "Real Sociedad", "apuestas": {"1": 30, "X": 35, "2": 35}},
+          {"local": "Villarreal", "visitante": "Cádiz", "apuestas": {"1": 48, "X": 30, "2": 22}},
+          {"local": "Mallorca", "visitante": "Atlético de Madrid", "apuestas": {"1": 20, "X": 30, "2": 50}},
+          {"local": "Rayo Vallecano", "visitante": "Barcelona", "apuestas": {"1": 18, "X": 25, "2": 57}},
+          {"local": "Valencia", "visitante": "Granada", "apuestas": {"1": 42, "X": 32, "2": 26}},
+          {"local": "Almería", "visitante": "Getafe", "apuestas": {"1": 28, "X": 33, "2": 39}},
+          {"local": "Osasuna", "visitante": "Las Palmas", "apuestas": {"1": 37, "X": 34, "2": 29}},
+          {"local": "Celta Vigo", "visitante": "Real Madrid", "apuestas": {"1": 15, "X": 25, "2": 60}},
+          {"local": "Betis", "visitante": "Athletic Club", "apuestas": {"1": 35, "X": 32, "2": 33}},
+          {"local": "Alavés", "visitante": "Girona", "apuestas": {"1": 29, "X": 33, "2": 38}},
+          {"local": "Real Madrid", "visitante": "Cádiz", "apuestas": {"1": 68, "X": 20, "2": 12}},
+          {"local": "Barcelona", "visitante": "Girona", "apuestas": {"1": 62, "X": 22, "2": 16}},
+          {"local": "Atlético de Madrid", "visitante": "Villarreal", "apuestas": {"1": 55, "X": 25, "2": 20}},
+          {"local": "Real Sociedad", "visitante": "Mallorca", "apuestas": {"1": 52, "X": 28, "2": 20}},
+          {"local": "Athletic Club", "visitante": "Sevilla", "apuestas": {"1": 48, "X": 30, "2": 22}}
+        ]
+      }
+    ]
+  }
